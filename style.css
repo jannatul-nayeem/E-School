@@ -61,6 +61,9 @@
     font-weight: 800;
     margin-bottom: 50px;
 }
+.icon-img  {
+    width: 20px;;
+}
 /**** Blog ****/
 .blog-heading-style{
     color: black;
