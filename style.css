@@ -1,0 +1,110 @@
+.container{
+    margin-bottom: 50px;
+}
+/**** Button style ****/
+.btn-style{
+    color: #ffffff;
+    background-color: #21B573;
+    border-radius: 30px;
+    border: none;
+    padding: 6px 20px;
+    cursor: pointer;
+}
+.btn-style:hover{
+    background-color: #18e086;
+    color: #ffffff;
+}
+/**** navitem style ****/
+.nav-item{
+    margin: 0 8px;
+    font-weight: 500;
+}
+/**** Top background ****/
+.bg-color{
+    background-color:#F0FFF0;
+}
+.orange-text{
+    color:orangered;
+}
+.top-bg-head{
+    font-size: 50px;
+    font-weight: 800;
+}
+.green-text{
+    color:#21B573;
+}
+.gray-text{
+    color: #585859;
+    font-weight: 500;
+}
+/**** Card style ****/
+.card{
+    border: none;
+    box-shadow: 1px 1px 10px #80808080;
+    border-radius: 20px;
+    margin: 10px;
+}
+.card-title{
+    color:#413960;
+    margin-top: 20px;
+    font-weight:600;
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+    padding-bottom: 1.5rem;
+}
+/**** Courses ****/
+.course-heading-style{
+    color: #413960;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 50px;
+}
+/**** Blog ****/
+.blog-heading-style{
+    color: black;
+    text-align: center;
+    font-weight: 800;
+}
+.testimonial-body{
+    height: 200px;
+    width: 900px;
+    color: black;
+    font-weight:600;
+    text-align: justify;
+}
+/**** Sign In ****/
+#signin{
+    height: 400px;
+}
+.sign-heading-style{
+    color: #413960;
+    text-align: center;
+    font-weight: 800;
+    padding: 20px;
+}
+.contact-area{
+    width: 420px;
+    height: 280px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    box-shadow: 1px 1px 10px #808080;
+    border-radius: 5px;
+}
+input[type=email],input[type=password]{
+    border-radius: 20px;
+}
+/****footer****/
+.footer-block{
+    background: #282531;
+    padding:40px 0 15px;
+}
+ul li{
+    list-style-type: none;
+}
+footer{
+    text-align: center;
+    font-size: small;
+}
